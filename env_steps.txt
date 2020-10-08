@@ -1,0 +1,3 @@
+export PATH="/opt/anaconda3/bin:$PATH"
+conda create -n har_env python=3.6
+
